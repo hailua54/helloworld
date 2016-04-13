@@ -1,2 +1,2 @@
-test master
-add feature 1
+test mas--ter
+add feature 1feature 2
