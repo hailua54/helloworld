@@ -1,0 +1,3 @@
+[submodule "git_module_1"]
+	path = git_module_1
+	url = https://github.com/hailua54/git_module_1
