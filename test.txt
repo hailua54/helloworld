@@ -6,3 +6,4 @@ release 1.2
 hot fix 1.2 _ feature 1
 add feature 6
 update 12/1/2020 --1
+update 12/1/2020 --2
